@@ -18,3 +18,4 @@ For analysis, data from 2009 to 2019 was retrieved using BigQuery Client API. Th
       Seaborn
       Basemap
  
+Screenshot of few plots have been attached for reference as they are not rendering on github.
