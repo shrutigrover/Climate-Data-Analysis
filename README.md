@@ -1,7 +1,18 @@
 # Climate-Data-Analysis
-* This repository contains two Jupyter Notebooks:
+* This repository contains nine Jupyter Notebooks:
+
+Visualisation Notebooks:
     1. US-Climate-1.ipynb
     2. US-Climate-2.ipynb
+    
+Machine Learning for Rain and Weather prediction:
+    1. Classification
+    2. Classification-Abalations0
+    3. Classification-Abalations1
+    4. Classification-Abalations2
+    5. Classification-Abalations3
+    6. Classification-All Features
+    7. Decision Tree-ver2
 
 
 * Both notebooks have different kinds of visualisations and interactive tools to play with. User interacts with the Spark Dataframes by selecting data to be filtered and consequently, maps and plots are shown.
