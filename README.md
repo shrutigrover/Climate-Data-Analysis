@@ -3,8 +3,8 @@
 
 Visualisation Notebooks:
 
-    1. US-Climate-1.ipynb
-    2. US-Climate-2.ipynb
+    1. Climate_US_1.ipynb
+    2. Climate_US_2.ipynb
     
     * Both notebooks have different kinds of visualisations and interactive tools to play with. User interacts with the Spark Dataframes by selecting data to be filtered and consequently, maps and plots are shown.
     * These notebooks were created in Google Colab, therefore, pip installs were done for the required packages at the start of the notebook. 
