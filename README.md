@@ -1,5 +1,5 @@
 # Climate-Data-Analysis
-* This repository contains ten Jupyter Notebooks:
+* This repository contains 2 Jupyter Notebooks:
 
 Visualisation Notebooks:
 
